@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TransactionLibrary/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.3"
+        },
+        "runtime": {
+          "TransactionLibrary.dll": {}
+        }
+      },
+      "Newtonsoft.Json/6.0.3": {
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.3.17227"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransactionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/6.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kN7Xp8vjnSEiLsyo5ZiKrRFgBU4P8CvcdxGSUBQ3W2OLqDK5rIABHkgN9Yjzh6kZ7BD58Ge19fz5GvfCnwmyGA==",
+      "path": "newtonsoft.json/6.0.3",
+      "hashPath": "newtonsoft.json.6.0.3.nupkg.sha512"
+    }
+  }
+}

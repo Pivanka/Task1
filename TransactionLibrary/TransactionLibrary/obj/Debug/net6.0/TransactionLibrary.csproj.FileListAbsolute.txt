@@ -1,0 +1,12 @@
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\bin\Debug\net6.0\TransactionLibrary.deps.json
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\bin\Debug\net6.0\TransactionLibrary.dll
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\bin\Debug\net6.0\TransactionLibrary.pdb
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.csproj.AssemblyReference.cache
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.AssemblyInfoInputs.cache
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.AssemblyInfo.cs
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.csproj.CoreCompileInputs.cache
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.dll
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\refint\TransactionLibrary.dll
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\TransactionLibrary.pdb
+D:\Internship\Hometask\TransactionLibrary\TransactionLibrary\obj\Debug\net6.0\ref\TransactionLibrary.dll

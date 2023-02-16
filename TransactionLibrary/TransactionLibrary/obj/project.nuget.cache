@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "3JwD5iZ0Ge70mxl7ZnMxMN+YzfaUtpXENq3h2KYr9VnEMw4GQC8Yr9kMSEMWds+uHGWFxlfxuXNzSCN3v8wHWQ==",
+  "dgSpecHash": "u/JKY1cDNRLl7P81L3pOMQTJCSRfDDnMcy79IzYtb/uYyHRk4pm7MflpiwPC6n6LyXm30GWizZejqQusi3ynHQ==",
   "success": true,
   "projectFilePath": "D:\\Internship\\Hometask\\TransactionLibrary\\TransactionLibrary\\TransactionLibrary.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\ivank\\.nuget\\packages\\newtonsoft.json\\6.0.3\\newtonsoft.json.6.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
