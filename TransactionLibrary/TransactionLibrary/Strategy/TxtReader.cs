@@ -12,7 +12,6 @@ namespace TransactionLibrary.Strategy
         {
             List<Transaction> transactions = new List<Transaction>();
             InfoModel result = new InfoModel();
-
             string line;
 
             using (StreamReader file = new StreamReader(pathExtract))
